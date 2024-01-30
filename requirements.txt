@@ -1,0 +1,9 @@
+pycryptodome==3.20.0
+vaex==4.17.0
+untangle==1.2.1
+weasyprint==60.2
+PySimpleGUI==4.60.5
+scapy==2.5.0
+nessrest==0.40
+ncclient==0.6.15
+easysnmp==0.2.6
